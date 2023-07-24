@@ -6,7 +6,7 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE
 
-* [1. Intro](url)
+* [1. Intro](https://github.com/TatianaOchoa30/Clon-de-Google/edit/main/README.md#1intro)
 * [2. Demo](url)
 * [3. ¿Qué construirás?](url)
 * [4. Objetivos de aprendizaje](url)
